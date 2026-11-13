@@ -30,9 +30,8 @@ The following tools and technologies are used throughout the project:
 - **Python:** Data loading, analysis, cleaning, and preprocessing.
 - **Pandas:** Data manipulation and analysis.
 - **NumPy:** Numerical computations.
-- **Matplotlib & Seaborn:** Exploratory data analysis and visualization.
 - **SQL:** Querying data and performing analytical operations.
-- **PostgreSQL / MySQL / SQL Server:** Relational database management systems.
+- **PostgreSQL:** Relational database management systems.
 - **Power BI:** Interactive dashboard development and data visualization.
 - **Jupyter Notebook:** Writing and executing Python code.
 - **Git & GitHub:** Project version control and documentation.
